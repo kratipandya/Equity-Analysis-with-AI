@@ -1,4 +1,4 @@
-#Equity Analysis with AI
+# Equity Analysis with AI
 
 This research explores how adding sentiment analysis to stock market prediction models
 can improve their accuracy. We focused on seven key European stock indices: DE40,
