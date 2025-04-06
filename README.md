@@ -1,4 +1,4 @@
-"#Equity Analysis with AI" 
+"#Equity Analysis with AI#" 
 
 This research explores how adding sentiment analysis to stock market prediction models
 can improve their accuracy. We focused on seven key European stock indices: DE40,
@@ -59,8 +59,3 @@ This repository contains code and scripts for predicting stock market trends usi
   - statsmodels (for ARIMA)
   - tensorflow or pytorch (for Neural Network models)
   - nltk or textblob (for sentiment analysis)
-  
-You can install all required libraries using:
-
-```bash
-pip install -r requirements.txt
